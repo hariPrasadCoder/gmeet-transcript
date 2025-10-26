@@ -1,0 +1,6 @@
+id,task,assignee,deadline,priority,context,status,created_date
+AI-001,Complete all the tasks which were given today.,Har,"No deadline mentioned for completion, but a follow-up is due by tomorrow.",High,So Har did you can complete all the tasks which were given today?,todo,2025-10-25T21:41:06.243888
+AI-002,Send an email if all tasks were not completed.,Har,2025-10-27,Medium,If not send me an email by tomorrow.,todo,2025-10-25T21:41:06.243906
+AI-003,Finish the development work in the application side.,Ram,No deadline,High,hey Ram you it's your task for you to um finish the development work in the application side,todo,2025-10-25T21:41:06.243909
+AI-004,Send a message.,Everyone else,2025-10-27 morning,Medium,and everyone else everyone should uh go and send me a message tomorrow morning.,todo,2025-10-25T21:41:06.243911
+AI-004,Send a message.,Everyone else,2025-10-27 (morning),Medium,and everyone else everyone should uh go and send me a message tomorrow morning.,in_progress,2025-10-25T21:41:06.243914
